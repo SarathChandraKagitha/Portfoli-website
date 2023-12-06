@@ -1,0 +1,70 @@
+/* styles.css */
+/* Reset some default styles */
+body, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Define a basic layout */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header {
+    background-color: #f3e5e5;
+    color: #04011d;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+/* In styles.css */
+body {
+    font-family: 'Lucida Sans', sans-serif; /* Set a default font */
+}
+
+h1 {
+    font-family: 'algerian', sans-serif; /* Use 'Open Sans' for headings */
+    font-size: 36px; /* Set font size for h1 */
+    font-weight: bold; /* Make the heading bold */
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, serif; /* Use Georgia font for paragraphs */
+    font-size: 16px; /* Set font size for paragraphs */
+}
+/* In styles.css */
+body {
+    color: #791b1b; /* Dark gray text color for the body */
+}
+
+h1 {
+    color: #bd1010; /* Blue color for h1 */
+}
+
+p {
+    color: #080707; /* Dark gray text color for paragraphs */
+}
+
+a {
+    color: #ff6600; /* Orange color for links */
+}
+
+
+/* Add styles for other sections and pages as needed */
